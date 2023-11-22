@@ -1,0 +1,7 @@
+# List of dependencies for the MicroPython project
+
+# SSD1306 - Library for OLED displays
+# This library needs to be loaded onto the MicroPython device.
+
+# DHT - Module for temperature and humidity sensors
+# This module is included in MicroPython and can be invoked directly without the need for additional installation.
